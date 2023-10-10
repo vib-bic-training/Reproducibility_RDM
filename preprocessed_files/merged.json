@@ -1,0 +1,27 @@
+[
+    {
+        "schema_name": "study_bia",
+        "properties": {
+            "title": "What we can learn from deep space communication for reproducible BioImage analysis ",
+            "authors": [
+                "Tatiana Woller",
+                "Christopher Cawthorne",
+                "Romain Raymond Agnes Slootmaekers4",
+                "Ingrid Barcena Roig",
+                "Alex Botzki",
+                "Sebastian Munck"
+            ],
+            "email": "sebastian.munck@kuleuven.be",
+            "license": "Creative Commons Attribution 4.0"
+        }
+    },
+    {
+        "schema_name": "analysis",
+        "properties": {
+            "methodology": "Large language model (GPT-4)",
+            "standard": "REMBI",
+            "repository": "https://github.com/vib-bic-training/Reproducibility_RDM.git",
+            "license": "CC BY 4.0"
+        }
+    }
+]
