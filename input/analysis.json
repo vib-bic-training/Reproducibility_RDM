@@ -1,0 +1,10 @@
+{
+  "schema_name": "analysis",
+
+  "properties": {
+    "methodology": "Large language model (GPT-4)",
+    "standard": "REMBI",
+    "repository": "https://github.com/vib-bic-training/Reproducibility_RDM.git",
+    "license":"CC BY 4.0"
+  }
+}
