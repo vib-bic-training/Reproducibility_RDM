@@ -22,4 +22,5 @@ This work is restricted to GPT-4 from Open-AI
 5. License = CC-BY-4.0
 
 6. Publication
-This readme file is associated to the publication "What we can learn from deep space communication for reproducible BioImage analysis"
+This readme file is associated to the publication "What we can learn from deep space communication for reproducible BioImaging and data analysis"
+

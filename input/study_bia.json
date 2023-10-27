@@ -1,11 +1,11 @@
 {
   "schema_name": "study_bia",
   "properties": {
-    "title": "What we can learn from deep space communication for reproducible BioImage analysis ",
+    "title": "What we can learn from deep space communication for reproducible BioImaging and data analysis ",
     "authors": [
      "Tatiana Woller",
       "Christopher Cawthorne",
-      "Romain Raymond Agnes Slootmaekers4",
+      "Romain Raymond Agnes Slootmaekers",
       "Ingrid Barcena Roig",
       "Alex Botzki",
       "Sebastian Munck"
